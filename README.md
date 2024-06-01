@@ -1,6 +1,6 @@
 # Darwin World
 
-Darwin World is the final project for the Object Oriented Programming course on AGH University of Science and Technology. The project involves creating a simulation of a biologically evolving world of animals and plants using Java.
+Darwin World is the final project for the Object Oriented Programming course at AGH University of Science and Technology. The project involves creating a simulation of a biologically evolving world of animals and plants using Java.
 
 ## Project Description
 
@@ -11,6 +11,7 @@ The aim of this project is to simulate an ecosystem where animals and plants evo
 This project was developed as part of the Object Oriented Programming (OOP) course.
 
 - **Course:** Object Oriented Programming
-- **Syllabus:** [https://sylabusy.agh.edu.pl/pl/document/dd3ffcf8-9cef-4359-912e-5c40b5882d3e.pdf]
-- **Detailed project description** [https://github.com/Soamid/obiektowe-lab/tree/master/proj]
-- **My project partner** [https://github.com/biganton]
+- **Syllabus:** [Course Syllabus](https://sylabusy.agh.edu.pl/pl/document/dd3ffcf8-9cef-4359-912e-5c40b5882d3e.pdf)
+- **Detailed Project Description:** [Project Repository](https://github.com/Soamid/obiektowe-lab/tree/master/proj)
+- **Project Partner:** [Antoni](https://github.com/biganton)
+
